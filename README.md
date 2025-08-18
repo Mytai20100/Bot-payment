@@ -25,7 +25,7 @@ Bot-payment is an open-source project that automatically notifies you when your 
 
 3. **Configure your wallet and notification channels:**  
    Open the configuration file main.py and enter your VRSC wallet address and details for Email.
-
+   Collect yourpassword app here --> https://myaccount.google.com/apppasswords
 4. **Run the bot:**
    ```bash
    python3 main.py
